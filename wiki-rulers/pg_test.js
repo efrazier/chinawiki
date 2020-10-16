@@ -5,7 +5,7 @@ const client = new Client({
   port: 5432,
   user: 'wikiuser',
   database:'wiki',
-  password: 'BOBisGOD6!',
+  password: '********',
 })
 
 
